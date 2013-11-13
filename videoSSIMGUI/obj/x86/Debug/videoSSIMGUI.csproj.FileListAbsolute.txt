@@ -1,0 +1,18 @@
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\bin\Debug\videoSSIMGUI.exe
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\bin\Debug\videoSSIMGUI.pdb
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.Form1.resources
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.Properties.Resources.resources
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.exe
+c:\users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.pdb
+C:\Users\akis\documents\visual studio 2010\Projects\videoSSIMGUI\videoSSIMGUI\bin\Debug\ZedGraph.dll
+C:\applic\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.exe
+C:\applic\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.pdb
+C:\applic\videoSSIMGUI\videoSSIMGUI\bin\Debug\videoSSIMGUI.exe
+C:\applic\videoSSIMGUI\videoSSIMGUI\bin\Debug\videoSSIMGUI.pdb
+C:\applic\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.csprojResolveAssemblyReference.cache
+C:\applic\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.Form1.resources
+C:\applic\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.Properties.Resources.resources
+C:\applic\videoSSIMGUI\videoSSIMGUI\obj\x86\Debug\videoSSIMGUI.csproj.GenerateResource.Cache
